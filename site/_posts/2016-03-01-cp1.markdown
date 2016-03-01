@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "cp 1"
+title:  "cp 1 gen"
 date:   2016-03-01 10:15:08 -0500
 categories: jekyll update
 ---
